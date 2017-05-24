@@ -17,3 +17,8 @@
 Οδηγίες για το πώς μορφοποιούμε τα αρχεία θα βρείτε εδώ [Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/) 
 
 :point_right:Καλή επιτυχία!  
+
+
+S1_115744
+ΤΜΗΜΑ ΘΕΣ-1
+Α.Μ. 115744
